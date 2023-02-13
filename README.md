@@ -17,6 +17,10 @@ It has around 7000 rows with 96 predictors.
 * To deal with high dimensionality we have used PCA which reduced column count 96 to 11-14 while capturing 0.99 information.
 * Data splitted into 70:30 ratio for training and validation set.
 
+## Data Balancing
+
+![image](https://user-images.githubusercontent.com/57527313/218591956-5de2618b-9185-4064-94b5-eb9d40116c77.png)
+
 ## Predictive Modeling 
 
 We trained below models on Original Data, Undersampled Data, Oversampled Data, SMOTE sampled data and PCA dimension reduced data.
