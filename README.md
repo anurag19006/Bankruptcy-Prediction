@@ -9,11 +9,11 @@ It has around 7000 rows with 96 predictors.
 
 ## EDA and Preprocessing
 
--There are no missing values in the entire dataset.
--All the columns  are numerical and scaled.
--To balance the dataset we have used various data balancing techniques.
--To deal with high dimensionality we have used PCA which reduced column count 96 to 11-14 while capturing 0.99 information.
--Data splitted into 70:30 ratio for training and validation set.
+*There are no missing values in the entire dataset.
+*All the columns  are numerical and scaled.
+*To balance the dataset we have used various data balancing techniques.
+*To deal with high dimensionality we have used PCA which reduced column count 96 to 11-14 while capturing 0.99 information.
+*Data splitted into 70:30 ratio for training and validation set.
 
 ## Predictive Modeling 
 
