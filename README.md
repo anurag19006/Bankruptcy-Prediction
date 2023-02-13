@@ -29,6 +29,12 @@ We trained below models on Original Data, Undersampled Data, Oversampled Data, S
 - Along with basic models we also trained a Neural Network with different architectures for original and PCA reduced dataset.
 - Random forest turned out to be the best performing model on Undersampled Data.
 
+## Use Cases
+
+- In medical domain and financial domain many of the data analysis tasks suffers from unbalanced data anomaly. 
+- This problem provides us the opportunity to work with unbalanced dataset.
+- The results will help the organizations keep track of the accurate predictors that actually cause decline of the organization. This in turn will help them carry our - specific operations to save the bank from bankruptcy.
+
 ## Recommendation
 
 - Objectives we met / Learnings
@@ -38,3 +44,11 @@ We trained below models on Original Data, Undersampled Data, Oversampled Data, S
 - Future Work
   - To study and try more complex Neural Network models.
 
+## References
+
+- Data set : https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction
+- https://towardsdatascience.com/how-to-balance-a-dataset-in-python-36dff9d12704
+- https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+- https://medium.com/luca-chuangs-bapm-notes/build-a-neural-network-in-python-binary-classification-49596d7dcabf
+- https://datascienceparichay.com/article/get-correlation-between-columns-of-pandas-dataframe/
+- https://stackoverflow.com/questions/4700614/how-to-put-the-legend-outside-the-plot
