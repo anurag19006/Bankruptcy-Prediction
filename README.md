@@ -29,3 +29,12 @@ We trained below models on Original Data, Undersampled Data, Oversampled Data, S
 - Along with basic models we also trained a Neural Network with different architectures for original and PCA reduced dataset.
 - Random forest turned out to be the best performing model on Undersampled Data.
 
+## Recommendation
+
+- Objectives we met / Learnings
+  - Various techniques to deal with highly unbalanced dataset
+  - PCA with high dimensional data
+  - Trained multiple models with different hyper parameters
+- Future Work
+  - To study and try more complex Neural Network models.
+
