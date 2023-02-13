@@ -35,6 +35,8 @@ We trained below models on Original Data, Undersampled Data, Oversampled Data, S
 - Along with basic models we also trained a Neural Network with different architectures for original and PCA reduced dataset.
 - Random forest turned out to be the best performing model on Undersampled Data.
 
+![image](https://user-images.githubusercontent.com/57527313/218592235-5c130fe8-fbaa-4c24-848b-aad9700a1f79.png)
+
 ## Use Cases
 
 - In medical domain and financial domain many of the data analysis tasks suffers from unbalanced data anomaly. 
