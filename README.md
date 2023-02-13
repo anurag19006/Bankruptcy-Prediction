@@ -7,6 +7,8 @@ The data were collected from the Taiwan Economic Journal for the years 1999 to 2
 It’s a highly unbalanced dataset, one class is in significantly large portion than the other.
 It has around 7000 rows with 96 predictors.
 
+![image](https://user-images.githubusercontent.com/57527313/218591788-48918f0a-66e3-4fb6-8365-95c78d8a9e7b.png)
+
 ## EDA and Preprocessing
 
 * There are no missing values in the entire dataset.
